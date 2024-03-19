@@ -1,6 +1,6 @@
 - Hi! I’m Kato, also known as @KatoIsDead or Kato or Kato Ryuji or　加藤龍侍. *sigh* You get the idea.
 - Im interested in coding, gaming, and walking late at night.
-- currently learning C++, CSS, HTML, and Javascript. 
+- currently studying C++, CSS, HTML, and Javascript. 
 - Pronouns: my pronounce were He/Him, but I want to be yours.
 - Fun fact: It's easy to die, but not to live. //actually I don't really know what am I saying right now LOL
 
